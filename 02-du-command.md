@@ -1,5 +1,7 @@
 # The du command
 
+The du (disk usage) command measures the disk space occupied by files or directories.
+
 ## Size of a Directory
 
 ```
